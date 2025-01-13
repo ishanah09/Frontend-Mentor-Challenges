@@ -5,3 +5,4 @@ This is a Git repository that contains multiple individual projects. Each projec
 ## Projects
 
 - ** PROJECT 01: FAQ-Accordion-Main
+- **PROJECT 2:QR-Code-Component-Main
