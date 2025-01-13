@@ -14,7 +14,7 @@ This is an interactive rating component built with HTML, CSS, and JavaScript. Us
 
 ## Links
 
-- [Live Demo](https://frontend-mentor-challenges-rq1h.vercel.app/)
+- [Live Demo](https://frontend-mentor-challenges-niec.vercel.app/)
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)
 
 
