@@ -8,7 +8,7 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 
 ## Links
 
-- [Live Demo](https://frontend-mentor-challenges-pi-six.vercel.app/)
+- [Live Demo](https://frontend-mentor-challenges-377v.vercel.app/)
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## Built With
