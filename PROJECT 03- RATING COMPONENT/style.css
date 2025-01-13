@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap");
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Overpass", sans-serif;
+}
+body {
+  min-height: 100vh;
+  width: 100%;
+}
+main {
+  min-height: 100vh;
+  width: 100%;
+  background-color: hsl(216, 12%, 8%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container1 {
+  width: min(350px, 90%);
+  background-color: hsl(213, 19%, 18%);
+  border-radius: 1rem;
+  padding: 1.5rem;
+}
+.container1 header {
+  height: 2rem;
+  width: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #38414a;
+  border-radius: 50%;
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+}
+.container1 header img {
+  height: 100%;
+  width: 100%;
+}
+.container1 h1 {
+  color: hsl(0, 0%, 100%);
+  font-size: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-weight: 700;
+}
+.container1 p {
+  font-size: 15px;
+  color: hsl(217, 12%, 63%);
+  margin-bottom: 1.25rem;
+  font-weight: 400;
+}
+
+form {
+  width: 100%;
+}
+form .input {
+  width: fit-content;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1rem;
+  margin: auto;
+  margin-bottom: 1.5rem;
+}
+form .input input {
+  align-self: flex-start;
+  border: none;
+  outline: none;
+  display: block;
+  text-align: center;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  background-color: #38414a;
+  color: hsl(217, 12%, 63%);
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 15px;
+}
+form .input input:hover {
+  background-color: hsl(25, 97%, 53%);
+  color: black;
+}
+form .input input::selection {
+  background-color: white;
+  color: black;
+}
+form button {
+  width: 100%;
+  border: none;
+  outline: none;
+  background-color: hsl(25, 97%, 53%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem;
+  border-radius: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+form button:hover {
+  cursor: pointer;
+  background-color: white;
+}
+
+
+.container2 {
+  width: min(350px, 90%);
+  background-color: hsl(213, 19%, 18%);
+  border-radius: 1rem;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container2 img {
+}
+.container2 span {
+  font-size: 15px;
+  color: orange;
+  padding: 0.5rem 1.25rem;
+  border-radius: 1rem;
+  background-color: #38414a;
+ margin: 2rem 0;
+}
+.container2 h1 {
+  color: hsl(0, 0%, 100%);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+.container2 p {
+  font-size: 15px;
+  color: hsl(217, 12%, 63%);
+  margin-bottom: 1.25rem;
+  font-weight: 400;
+  text-align: center;
+}
+
+
+.select
+{
+  background-color: white!important;
+  color: black!important;
+}
+
+.hide {
+  display: none!important;
+}
