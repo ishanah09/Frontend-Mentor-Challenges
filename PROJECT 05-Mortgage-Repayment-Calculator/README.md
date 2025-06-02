@@ -11,7 +11,7 @@ Users can input loan amount, term, interest rate, and select repayment type to c
 
 ## 🔗 Links
 
-- [Live Demo]()
+- [Live Demo](https://mortgagecalculator-psi.vercel.app/)
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/mortgage-repayment-calculator-Galx1LXK73)
 
 ## 🛠️ Built With
