@@ -5,11 +5,7 @@ This is a Git repository that contains multiple individual projects. Each projec
 ## Projects
 
 - ** PROJECT 01: FAQ-Accordion-Main
-
 - **PROJECT 02:QR-Code-Component-Main
-
 - **PROJECT 03:Interactive rating component solution
-
 - **PROJECT 04:Rock, Paper, Scissors Game Solution
-
 - **PROJECT 05:Mortgage-Repayment-Calculator
