@@ -158,7 +158,7 @@ export default function Calculator() {
               className={`${
                 submitted && error.amount
                   ? " border-[hsl(4,69%,50%)] bg-[hsl(4,69%,50%)] "
-                  : " border-[hsl(210,7%,5%)] bg-[hsl(202,86%,94%)]  "
+                  : "  border-[hsl(200,26%,54%)] bg-[hsl(202,86%,94%)]  "
               }    border-2  flex  justify-between mt-1.5 rounded-md hover:border-[hsl(202,55%,16%)] active:border-[hsl(61,70%,52%)] active:bg-[hsl(61,70%,52%)] active:text-[hsl(202,55%,16%)]`}
             >
               <div
@@ -192,8 +192,6 @@ export default function Calculator() {
           </div>
 
           <div className="w-full md:flex-row md:gap-7 flex flex-col gap-4">
-
-
             <div className="w-full ">
               <label
                 htmlFor="term"
@@ -276,9 +274,6 @@ export default function Calculator() {
                 </span>
               )}
             </div>
-
-
-
           </div>
 
           <div className="w-full">
@@ -352,7 +347,6 @@ export default function Calculator() {
             <img src={calculator} alt="" />
             Calculate Repayments
           </button>
-
         </form>
       </div>
 
