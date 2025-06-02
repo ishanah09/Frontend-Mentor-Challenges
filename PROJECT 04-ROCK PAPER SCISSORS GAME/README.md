@@ -10,7 +10,7 @@ This is a simple yet interactive game built with HTML, CSS, and JavaScript. Play
 
 ## Links
 
-- [Live Demo]()
+- [Live Demo](https://frontend-mentor-challenges-3e7x.vercel.app/)
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH)
 
 .
