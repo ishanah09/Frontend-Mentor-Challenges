@@ -8,7 +8,7 @@ This is a solution to the [Product Preview Card](https://www.frontendmentor.io/c
 
 ## Links
 
-- [Live Demo]()
+- [Live Demo](https://productpreviewcardcomponent-phi.vercel.app/)
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
 ## Built With
