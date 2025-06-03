@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+:root {
+  --Green: hsl(75, 94%, 57%);
+
+  --White: hsl(0, 0%, 100%);
+
+  --Grey-700: hsl(0, 0%, 20%);
+  --Grey-800: hsl(0, 0%, 12%);
+  --Grey-900: hsl(0, 0%, 8%);
+}
+
+body {
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--Grey-900);
+  padding: 1rem;
+}
+
+main {
+  background-color: var(--Grey-800);
+  border-radius: 1rem;
+  padding: 2rem 1.5rem;
+}
+
+main .profile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+main .profile figure {
+  width: 75px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+main .profile figure img {
+  width: 75px;
+  border-radius: 50%;
+}
+
+main .profile h1 {
+  font-weight: 700;
+  color: var(--White);
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+}
+
+main .profile p {
+  font-weight: 600;
+  color: var(--Green);
+  font-size: 14px;
+}
+
+main > p {
+  color: var(--White);
+  font-size: 13px;
+  margin-bottom: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+main .social-media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+main .social-media > div {
+  background-color: var(--Grey-700);
+  width: 100%;
+  border-radius: 6px;
+  color: var(--White);
+  font-size: 14px;
+  padding: 0.75rem;
+  text-align: center;
+}
+main .social-media > div:hover {
+  background-color: var(--Green);
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+@media (max-width: 425px) {
+  main {
+    padding: 2rem 1rem;
+  }
+}

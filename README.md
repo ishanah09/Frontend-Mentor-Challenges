@@ -17,3 +17,5 @@ This is a Git repository that contains multiple individual projects. Each projec
 - **PROJECT 06: Recipe-Page
 
 - **PROJECT 07: Blog-Preview-Card
+
+- **PROJECT 08: Social-Links-Profile
