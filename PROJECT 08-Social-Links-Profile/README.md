@@ -8,7 +8,7 @@ This is a solution to the [Social Links Profile](https://www.frontendmentor.io/c
 
 ## Links
 
-- [Live Demo]()
+- [Live Demo](https://sociallinksprofile-gamma.vercel.app/)
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
 ## Built With
