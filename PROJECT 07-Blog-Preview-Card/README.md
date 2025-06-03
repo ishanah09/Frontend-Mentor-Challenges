@@ -36,5 +36,5 @@ This is a solution to the [Blog Preview Card](https://www.frontendmentor.io/chal
 
 
 ## Author
--Coded by Md Ishan Ahmad
+- Coded by Md Ishan Ahmad
 - GitHub - [ishanAh09](https://github.com/ishanah09)
