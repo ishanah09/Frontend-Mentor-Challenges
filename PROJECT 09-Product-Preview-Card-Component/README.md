@@ -37,5 +37,5 @@ This is a solution to the [Product Preview Card](https://www.frontendmentor.io/c
 
 
 ## Author
--Coded by Md Ishan Ahmad
+- Coded by Md Ishan Ahmad
 - GitHub - [ishanAh09](https://github.com/ishanah09)
