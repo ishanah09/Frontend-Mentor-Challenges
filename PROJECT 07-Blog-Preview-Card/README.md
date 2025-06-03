@@ -8,7 +8,7 @@ This is a solution to the [Blog Preview Card](https://www.frontendmentor.io/chal
 
 ## Links
 
-- [Live Demo]()
+- [Live Demo](https://blogpreviewcard-puce.vercel.app/)
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
 ## Built With

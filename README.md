@@ -15,3 +15,5 @@ This is a Git repository that contains multiple individual projects. Each projec
 - **PROJECT 05: Mortgage-Repayment-Calculator
 
 - **PROJECT 06: Recipe-Page
+
+- **PROJECT 07: Blog-Preview-Card
