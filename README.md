@@ -23,3 +23,5 @@ This is a Git repository that contains multiple individual projects. Each projec
 - **PROJECT 09: Product-Preview-Card-Component
 
 - **PROJECT 10: Results-Summary-Component
+
+- **PROJECT 11: NFT-Preview-Card-Component
