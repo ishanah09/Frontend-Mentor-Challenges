@@ -4,7 +4,7 @@ This is a solution to the [Recipe Page](https://www.frontendmentor.io/challenges
 
 ## Screenshot
 
-![FAQ Accordion Screenshot](./Screenshot%202025-06-03%20181231.png)
+![Recipe Page Screenshot](./Screenshot%202025-06-03%20181231.png)
 
 ## Links
 

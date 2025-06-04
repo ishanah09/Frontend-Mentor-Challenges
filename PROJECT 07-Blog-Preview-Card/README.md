@@ -4,7 +4,7 @@ This is a solution to the [Blog Preview Card](https://www.frontendmentor.io/chal
 
 ## Screenshot
 
-![FAQ Accordion Screenshot](./Screenshot%202025-06-03%20192512.png)
+![  Blog Preview Screenshot](./Screenshot%202025-06-03%20192512.png)
 
 ## Links
 

@@ -4,7 +4,7 @@ This is a solution to the [Product Preview Card](https://www.frontendmentor.io/c
 
 ## Screenshot
 
-![FAQ Accordion Screenshot](./Screenshot%202025-06-03%20225447.png)
+![Product Preview Project Screenshot](./Screenshot%202025-06-03%20225447.png)
 
 ## Links
 

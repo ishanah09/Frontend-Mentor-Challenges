@@ -4,7 +4,7 @@ This is a solution to the [Social Links Profile](https://www.frontendmentor.io/c
 
 ## Screenshot
 
-![FAQ Accordion Screenshot](./Screenshot%202025-06-03%20203150.png)
+![Social Link Project Screenshot](./Screenshot%202025-06-03%20203150.png)
 
 ## Links
 
