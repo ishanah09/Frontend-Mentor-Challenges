@@ -24,4 +24,4 @@ This is a Git repository that contains multiple individual projects. Each projec
 
 - **PROJECT 10: Results-Summary-Component
 
-- 
+
