@@ -19,3 +19,7 @@ This is a Git repository that contains multiple individual projects. Each projec
 - **PROJECT 07: Blog-Preview-Card
 
 - **PROJECT 08: Social-Links-Profile
+
+- **PROJECT 09: Product-Preview-Card-Component
+
+- **PROJECT 10: Results-Summary-Component
