@@ -1,6 +1,6 @@
 ## Frontend Mentor - Mortgage Calculator Solution 🏠
 
-[his is a solution to the Mortgage Calculator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/mortgage-repayment-calculator-Galx1LXK73)
+[This is a solution to the Mortgage Calculator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/mortgage-repayment-calculator-Galx1LXK73)
 
 A simple, responsive mortgage calculator built with **React** and **Tailwind CSS**.  
 Users can input loan amount, term, interest rate, and select repayment type to calculate monthly repayments and total repayment amount.
